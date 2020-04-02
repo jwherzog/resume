@@ -69,14 +69,14 @@
             "Familiar with medium-and-small RDBMS such as Access, SQLite, PostgreSQL, etc.", "Know mainstream NoSQL databases such as MongoDB and typical data science SQL dialects such as SparkQL."]
         },
         {
-          "name": "PowerBI", "size": "small", "alpha": 0.15, "from": "2018", "thru": "now", "fa": "fas fa-chart-area", "prof": 4.5, 
+          "name": "PowerBI", "size": "medium", "alpha": 0.15, "from": "2018", "thru": "now", "fa": "fas fa-chart-area", "prof": 4.5, 
           "p": ["Familiar with building dynamic reports and business dashboards using Power Query and built-in widgets."],
           "ul": ["Migrating legacy <code>SSRS</code> reports"]
         }
       ],
       [
         {
-          "name": "Angular", "size": "small", "alpha": 0.3, "from": "2015", "thru": "now", "fa": "fab fa-angular", "prof": 4, 
+          "name": "Angular", "size": "medium", "alpha": 0.3, "from": "2015", "thru": "now", "fa": "fab fa-angular", "prof": 4, 
           "p": null,
           "ul": ["Started working with <code>AngularJS 1.5</code>. Progressively upgraded apps from Angular 2-8",
             "Comfortable building Angular apps using TypeScript","Comfortable with reactive programming using <code>RxJS</code>",
