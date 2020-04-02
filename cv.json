@@ -14,7 +14,7 @@
       {"name": "LinkedIn", "fa": "fab fa-linkedin", "value": "https://www.linkedin.com/in/justinherzog", "link": "https://www.linkedin.com/in/nickelrails"}
     ],
     "socio": [
-      {"name": "GitHub", "fa": "fab fa-github", "value": "jherzog", "link": "https://github.com/jherzog"},
+      {"name": "GitHub", "fa": "fab fa-github", "value": "jherzog", "link": "https://github.com/jwherzog"},
       {"name": "Stack Overflow", "fa": "fab fa-stack-overflow", "value": "", "link": "https://stackoverflow.com/"}
     ],
     "talent": [   
