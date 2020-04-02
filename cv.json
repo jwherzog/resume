@@ -102,18 +102,6 @@
           "Comfortable with SASS", "Comfortable fir "]
         },
         {
-          "name": "Public health", "size": "medium", "alpha": 0.3, "from": "2001", "thru": "now", "fa": "fas fa-clinic-medical", "prof": 4, 
-          "p": null,
-          "ul": ["Solid knowledge on medical fundamentals: Basic Medicine, Clinical Medicine.", "Professionally trained in epidemiology, occupational health, environmental health and social medicine.",
-            "Good at thinking health topics and strategies from 'holistic health' perspective, and focus on macro health strategies with supportive environment etc."]
-        },
-        {
-          "name": "Epidemiology", "size": "medium", "alpha": 0.15, "from": "2001", "thru": "now", "fa": "fas fa-clinic-medical", "prof": 4, 
-          "p": null,
-          "ul": ["Familiar with theory framework and study design of modern epidemiology.", 
-            "Good at field epidemiology and occupational epidemiology."]
-        },
-        {
           "name": "Agile", "size": null, "alpha": 0.25, "from": "2012", "thru": "now", "fa": "fas fa-tasks", "prof": 4, 
           "p": ["Worked in several Agile(ish) environments with these principles"],
           "ul": ["Short daily standups with focused teams.",
@@ -309,12 +297,12 @@
     ],
     "self": {
       "statement": [
-        "Senior data scientist / project management professional working 10+ years in healthcare and health insurance industry with rich experience of transnational / cross-functional cooperation.",
-        "Cross-border key contribution on product, system & service to the business unit throughout its creation and continuous growth; profound understanding on industry dynamics, strategic focus and implementation details in health management and the big health industry.",
-        "Stick to life-long problem-oriented active learning; volatile skills in 'business / medicine / data / IT tech' and solid transdisciplinary knowledge that is scarce; good at meeting business requirements by overcoming restraints with innovative technical turnarounds.",
-        "Advocate a data-driven, evidence-and-fact-based, agile and cooperative work philosophy; good numeracy & analytic skills and systematic thinking framework; good at identifying, analysing and solving problems; adapt to a fast changing work environment that requires flexible re-prioritization and cooperative push-forward."
+        "Lead Full Stack .NET Software Engineer with over 10+ years in experience.",
+        "Comfortable in an environment defined by agility, complex challenges, and innovative thinkers.",
+        "Start to finish full stack engineering of highly complex web apps from strategy to go-live.",
+        "Ability to develop excellent relationships with colleagues and leadership in parallel"
       ],
-      "interest": ["Woodworking", "Hiking","Fishing", "Boating","Family Time", "Auto Repair"],
+      "interest": ["Woodworking", "Hiking","Fishing", "Boating","Family Time", "All things mechanical"],
       "gallery": null
     },
     "misc": {
@@ -323,8 +311,8 @@
         "msg": "<br/><p>Feel free to interact with the page (tap the tags, icons and buttons, unfold the collapse panels, visit the links, etc.) for more details.</p><ol style='padding-left:20px'><li>It's responsive to various equipments (PC, tablet, mobile phone, ...) with different resolution</li><li>A method to calculate and present time difference has been wrapped</li><li>Functionalities of <code>el-collapse</code> and <code>el-timeline</code> components have been extended and integrated</li><li>CDN has been applied to boost the web performance, please make sure <a href='https://www.bootcdn.cn' target='_blank'>BootCDN</a> is accessible</li><li>You can download the PDF version at <i class='fas fa-download'></i></li></ol>"
       },
       "footnote": "<span style='float:right'><i class='fas fa-file-code'></i> Powered by <code>Vue.js</code>, <code>ElementUI</code>, <code>ECharts</code> & <code>i18n</code>, <i class='fas fa-terminal'></i> built with <code>Webpack</code>.</span>",
-      "copyright": {"from": "2019", "thru": "now", "content": "madlogos"},
-      "attachment": "https://gh-1251443721.cos.ap-chengdu.myqcloud.com/assets/wang-yiying-resume-en.pdf"
+      "copyright": {"from": "2019", "thru": "now", "content": "justin.herzog"},
+      "attachment": "/assets/justin_herzog_resume.pdf"
     }
   }
 }
