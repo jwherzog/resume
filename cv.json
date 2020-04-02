@@ -1,0 +1,330 @@
+{
+  "en": {
+    "basic":{
+      "name": "Justin Herzog",
+      "gender": {"fa": "fas fa-mars", "value": "Male"},
+      "dob": {"fa": "fas fa-birthday-cake", "value": "12/11/1975"},
+      "marriage": {"fa": "fas fa-ring", "value": "75252"},
+      "home": {"fa": "fas fa-home", "value": "Dallas, TX 75252", "link": "https://www.google.com/maps/dir//17606+Preston+Rd,+Dallas,+TX+75252/@32.9918573,-96.8345488,13z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x864c23d1026c48d3:0xf3636155f8f3bf6b!2m2!1d-96.800216!2d32.991862"},
+      "motto":[ "I'm a versatile Software Engineer", "I'm a Tinkerer", "I'm a Servant Leader", "I'm an out-of-the-box thinker"]
+    },
+    "contact": [
+      {"name": "Email", "fa": "fas fa-envelope", "value": "jzog@justinherzog.tech", "link": "mailto:jzog@justinherzog.tech"},
+      {"name": "Site", "fa": "fas fa-globe", "value": "http://justinherzog.tech", "link": "http://justinherzog.tech"},
+      {"name": "LinkedIn", "fa": "fab fa-linkedin", "value": "https://www.linkedin.com/in/justinherzog", "link": "https://www.linkedin.com/in/nickelrails"}
+    ],
+    "socio": [
+      {"name": "GitHub", "fa": "fab fa-github", "value": "jherzog", "link": "https://github.com/jherzog"},
+      {"name": "Stack Overflow", "fa": "fab fa-stack-overflow", "value": "", "link": "https://stackoverflow.com/"}
+    ],
+    "talent": [   
+      {"name": "Front-End Development", "value": 95, "tip": "Solid front-end UI development with good foundation in HTML, CSS, and JavaScript ; Proponent of front-end first development using Vue.JS,Angular, and Mirage.JS"},
+      {"name": "Back-End Enginering", "value": 80, "tip": "Familiarity with the practice and dynamics of health promotion in both academic society and industry; rich experience of program design and implementation."},
+      {"name": "Software Architecture", "value": 75, "tip": "Continuous learning of development frameworks, patterns, and practices; in-depth experience with full-stack code reviews; frequent participation in complex software design and model selection."},
+      {"name": "Strategic planning", "value": 70, "tip": "Participation in business strategy planning across multiple business lines; establishment of strategic thinking approaches from the lens of business, technology, and value."},
+      {"name": "Cloud Computing", "value": 75, "tip": "Familiarity with AWS, and Azure Cloud services and migration strategies ; Successful exection of multiple Cloud POCs and Customer Proposals; Advocate of Cloud adoption"}
+    
+    ],
+    "skill": [
+      [
+        {
+          "name": "ASP.NET Framework", "size": null, "alpha": 0.3, "from": "2005", "thru": "now", "fa": "fab fa-microsoft", "prof": 4.5, 
+          "p": ["Start-to-finish greenfield development, and support of several enterprise apps."],
+          "ul": ["Started working with version 2, and have progressively with each version released over the years",
+            "Extensive development, and continuous enhancement of apps using <code>ASP.NET MVC 4</code> and above",
+            "Extensive development of RESTful API's using <code>.NET Web API 2.x</code> and above",
+            "Extensive architecture, and full cycle engineering of complex applications with 4.x versions"]
+        },
+        {
+          "name": "Entity Framework", "size": "medium", "alpha": 0.3, "from": "2014", "thru": "now", "fa": "fas fa-database", "prof": 4.5, 
+          "p": ["Understand principles of code-first and database-first approaches"],
+          "ul": ["Extensive engineering experience with <code>EF 6.x</code> in complex apps deployed to production using code-first",
+            "Extensive experience with <code>LINQ</code> and Lambda Expressions",
+            "Proof of Concept experience with <code>Entity Framework Core</code>",
+            "Exercise solid decision making on when to lazy-load vs eager load"
+          ]
+        },
+        {
+          "name": "Azure Cloud", "size": "small", "alpha": 0.25, "from": "2018", "thru": "now", "fa": "fas fa-layer-group", "prof": 3.5, 
+          "p": ["Understand principle fundamentals of Azure Cloud Services, specifically Web Apps, Logic Apps, Api Apps, Azure SQL, Devops, and Functions."],
+          "ul": ["Built Proof of Concept(POC) in <code>.NET Core(C#)</code>, <code>EF Core</code>, <code>Serverless(JavaScript)</code>, and <code>SQL</code>.","Build and CI/CD using Azure Devops.", "Monitoring using Azure Insights."]
+        },
+        {
+          "name": "AWS", "size": null, "alpha": 0.15, "from": "2018", "thru": "now", "fa": "fab fa-r-project", "prof": 3.5, 
+          "p": ["Proficient with AWS Fundamentals, demonstrated by achieving AWS Practicioner Certification"],
+          "ul": [".NET SDK and deploying <code>.NE Core C#</code> apps from Visual Studio 2019.", "AWS Lambda Functions using JavaScript.", 
+            "Sizing and Estimating costs for existing apps migrating from on-prem to AWS" ]
+        },
+        {
+          "name": "Python", "size": "medium", "alpha": 0.15, "from": "2018", "thru": "now", "fa": "fab fa-python", "prof": 3, 
+          "p": ["Proficient at statistic analysis, data visualization, machine learning, deep learning and web programming using Python, with experience of complete development of Python libraries and small analytic projects."], 
+          "ul": ["Independently developed Python libraries required by financial management business", 
+            "Developed financial data backend management system on top of <code>Django</code> framework and RESTful-API.",
+            "Familiar with <code>Django</code> and <code>Flask</code> Web frameworks and data science related libraries such as <code>tensorflow</code>."]
+        },
+        {
+          "name": "SQL", "size": "medium", "alpha": 0.15, "from": "2013", "thru": "now", "fa": "fas fa-database", "prof": 4, 
+          "p": null,
+          "ul": ["Familiar with paradigm and practice of table design in RDBMS.","Very skilled with large and complex Microsoft SQL Server enterprise databases", "Proficient with CRUD operations in RDBMS.", 
+            "Familiar with medium-and-small RDBMS such as Access, SQLite, PostgreSQL, etc.", "Know mainstream NoSQL databases such as MongoDB and typical data science SQL dialects such as SparkQL."]
+        },
+        {
+          "name": "PowerBI", "size": "small", "alpha": 0.15, "from": "2018", "thru": "now", "fa": "fas fa-chart-area", "prof": 4.5, 
+          "p": ["Familiar with building dynamic reports and business dashboards using Power Query and built-in widgets."],
+          "ul": ["Migrating legacy <code>SSRS</code> reports"]
+        }
+      ],
+      [
+        {
+          "name": "Angular", "size": "small", "alpha": 0.3, "from": "2015", "thru": "now", "fa": "fab fa-angular", "prof": 4, 
+          "p": null,
+          "ul": ["Started working with <code>AngularJS 1.5</code>. Progressively upgraded apps from Angular 2-8",
+            "Comfortable building Angular apps using TypeScript","Comfortable with reactive programming using <code>RxJS</code>",
+            "Comfortable with async programming in apps that consume in-house, and third party APIs", 
+             "Comfortable with unit and end-to-end testing using <code>Jasmine, Karma, and Protractor</code>",
+             "Comfortable using the <code>Angular CLI, NPM, and Yarn</code>",
+            "Familiar assembling modern UIs with Angular Material"]
+        },
+        {
+          "name": "Vue.js", "size": "medium", "alpha": 0.3, "from": "2017", "thru": "now", "fa": "fab fa-vuejs", "prof": 4, 
+          "p": null,
+          "ul": ["Started working with version 2, currently working with version 3",
+            "Developed proof of concept UI for used for Cloud migration",
+            "Comfortable using <code>Vuex</code> for state management.",
+            "Comfortable using <code>Axios</code> with async programming in apps that consume in-house, and third party APIs",
+            "Comfortable using the <code>Vue CLI, NPM, and Yarn</code>"
+          ]
+        },
+        {
+          "name": "HTML5\\CSS", "size": "small", "alpha": 0.08, "from": "2010", "thru": "now", "fa": "fab fa-html5", "prof": 3, 
+          "p": null,
+          "ul": ["At the core of every application I have built from ground up, or assumed responsibility for",
+          "Comfortable with SASS", "Comfortable fir "]
+        },
+        {
+          "name": "Public health", "size": "medium", "alpha": 0.3, "from": "2001", "thru": "now", "fa": "fas fa-clinic-medical", "prof": 4, 
+          "p": null,
+          "ul": ["Solid knowledge on medical fundamentals: Basic Medicine, Clinical Medicine.", "Professionally trained in epidemiology, occupational health, environmental health and social medicine.",
+            "Good at thinking health topics and strategies from 'holistic health' perspective, and focus on macro health strategies with supportive environment etc."]
+        },
+        {
+          "name": "Epidemiology", "size": "medium", "alpha": 0.15, "from": "2001", "thru": "now", "fa": "fas fa-clinic-medical", "prof": 4, 
+          "p": null,
+          "ul": ["Familiar with theory framework and study design of modern epidemiology.", 
+            "Good at field epidemiology and occupational epidemiology."]
+        },
+        {
+          "name": "Agile", "size": null, "alpha": 0.25, "from": "2012", "thru": "now", "fa": "fas fa-tasks", "prof": 4, 
+          "p": ["Worked in several Agile(ish) environments with these principles"],
+          "ul": ["Short daily standups with focused teams.",
+            "Backlog grooming sessions to brainstorm get requirements ready to consume.",
+            "Work broken down into 4-8 hour chunks.",
+          "2 Week Sprints ending with customer demos aimed to get feedback early and often.",
+        "Refine based on feedback, and ship.", "Rinse, and Repeat."]
+        }
+      ],
+      [
+        {
+          "name": "Project management", "size": null, "alpha": 0.3, "from": "2012", "thru": "now", "fa": "fas fa-project-diagram", "prof": 4.5, 
+          "p": ["Rich experience of business and development project management."],
+          "ul": ["Familiar with classic project management knowledge system; provided management tools and templates for the team.",
+            "Familiar with estimating development effort and risk in large projects",
+            "Familiar with tools such as <code>Project</code>.",
+            "Familiar with tools such as <code>Jira</code>."]
+        },
+        {
+          "name": "Requirement analysis", "size": "medium", "alpha": 0.15, "from": "2017", "thru": "now", "fa": "fas fa-laptop-code", "prof": 3.5, 
+          "p": null,
+          "ul": ["Good at distilling business logic and defining product requirements.",
+            "Good at rapidly implementing product prototypes using various open source tools (<code>Draw.io</code> etc.).",
+            "Build product requirements using prototypes, documentation and UML graphs."]
+        },
+        {
+          "name": "Full-stack", "size": "small", "alpha": 0.3, "from": "2015", "thru": "now", "fa": "fas fa-laptop-code", "prof": 4, 
+          "p": ["Good at building functionality prototypes independently once business requirements are identified quickly."],
+          "ul": ["Proficient at building C/S small applications with Access as frontend, SharePoint as backend.",
+            "Familiar with building online prototypes using <code>Flask</code>, <code>Django</code> and <code>Vue.js</code>."]
+        },
+        {
+          "name": "Strategy", "size": "medium", "alpha": 0.3, "from": "2017", "thru": "now", "fa": "fas fa-chess-board", "prof": 3.5, 
+          "p": null,
+          "ul": ["Good at information searching and organization to describe and analyze the market.", "Understand common tools for strategic analysis."]
+        },
+        {
+          "name": "Photoshop", "size": null, "alpha": 0.15, "from": "2010", "thru": "now", "fa": "fab fa-adobe", "prof": 3.0, 
+          "p": null,
+          "ul": ["Good at slicing, and dicing PSDs to build custom <code>HTML</code> templates, and components"]
+        }
+      ]
+    ],
+    "cert": [
+      {
+        "caption": "AWS Certified Cloud Practitioner", "name": "Certified Cloud Practitioner", "provider": "AWS",
+        "fa": "fas fa-award", "time": "2019/03", "institute": {
+          "name": "AWS", "link": "https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=F7D7SFTCKNFQQHGK"}, "sn": "F7D7SFTCKNFQQHGK",
+        "p": ["The AWS Cloud Practitioner exam enables individuals with an overall understanding of the AWS Cloud to validate their knowledge with an industry-recognized credential. It provides individuals in a larger variety of cloud and technology roles with a way to validate their AWS Cloud knowledge and enhance their professional credibility."], 
+        "ol": null
+      },
+      {
+        "caption": "ITIL Foundations", "name": "ITIL Foundations", "provider": "Axelos",
+        "fa": "fas fa-award", "time": "2019/03", "institute": {
+          "name": "ITIL Foundations", "link": "https://www.axelos.com/certifications/itil-certifications/itil-foundation"}, "sn": "n/a",
+        "p": ["The ITIL 4 Foundation certification is designed as an introduction to ITIL 4 and enables candidates to look at IT service management through an end-to-end operating model for the creation, delivery and continual improvement of tech-enabled products and services"], 
+        "ol": null
+      },
+      {
+        "caption": "MCTS: .NET 4, Web Applications (C#)", "name": "MCTS: .NET 4, Web Applications (C#)", "provider": "Microsoft",
+        "fa": "fas fa-award", "time": "2011/05", "institute": {
+          "name": "MCTS: .NET 4, Web Applications (C#)", "link": "https://www.microsoft.com/en-us/learning/mcts-certification.aspx"}, "sn": "F7D7SFTCKNFQQHGK",
+        "p": ["MCTS: .NET Framework 4, Web Applications (C#) Test core knowledge for developers building Web application for enterprise consumption"], 
+        "ol": null
+      }
+      
+    ],
+    "job": [
+      {
+        "from": "2010/04", "till": "2012/8", "emp": "Smooth Fusion - Lubbock, TX", "link": "https://www.smoothfusion.com",
+        "wiki": {
+          "fa": "fab fa-wikipedia-w", "title": "About this employer", "value": "Wikipedia",
+          "tag": ["Digital Strategy", "Custom .NET Dev Agency", "Custom Web Design"],
+          "link": "https://www.smoothfusion.com/about"
+        }, 
+        "title": ".NET/Web Developer", "icon": "check", "active": true,
+        "keyword": ["ASP.NET", "MVC", "C#","jQuery","Vanilla JavaScript","Sitefinity","Sitecore","SQL","HTML5\\CSS"],
+        "description": [
+          {
+            "p": ["Responsible for a wide variety of custom web development projects. Clients include Microsoft, Dell, Samsung, Welch’s, and Phillips 66 Aviation"],
+            "ul": ["Fast paced development of ASP.NET object-oriented C# applications to meet client requirements",
+              "Created several complex new sites using the Sitefinity CMS",
+              "Database architecture, implementation, and performance tuning using SQL Server",
+              "Custom Animation projects using Flash, and HTML5"
+              ]
+          }
+          
+        ]
+      },
+      {
+        "from": "2012/08", "till": "2012/12", "emp": "Self Employed - Lubbock, TX ", "link": "https://www.behringerinvestments.com",
+        "wiki": {
+          "fa": "fab fa-wikipedia-w", "title": "About this employer", "value": "Wikipedia",
+          "tag": ["Real Estate Investment Trust(REIT)"],
+          "link": "https://en.wikipedia.org/wiki/Real_estate_investment_trust"
+        }, 
+        "title": ".NET/Web Development Consultant", "icon": "check", "active": true,
+        "keyword": ["ASP.NET", "MVC", "C#","jQuery","Vanilla JavaScript","SQL"],
+        "description": [
+          {
+            "p": ["Consulted small-medium sized businesses on a wide range of web development projects including:"],
+            "ul": ["Recommending and discussing optimal approaches to developing applications with customers",
+              "Custom web development of new entity framework code-first applications using ASP.NET MVC 4, C#, jQuery, and SQL Server",
+              "Maintain and enhance existing web sites and applications built on various Microsoft development platforms"
+              ]
+          }
+          
+        ]
+      },
+      {
+        "from": "2012/12", "till": "2013/08", "emp": "Behringer Harvard - Addison, TX", "link": "https://www.behringerinvestments.com",
+        "wiki": {
+          "fa": "fab fa-wikipedia-w", "title": "About this employer", "value": "Wikipedia",
+          "tag": ["Real Estate Investment Trust(REIT)"],
+          "link": "https://en.wikipedia.org/wiki/Real_estate_investment_trust"
+        }, 
+        "title": ".NET/Web Developer", "icon": "check", "active": true,
+        "keyword": ["ASP.NET", "MVC", "C#","Salesforce(Apex)","Ektron","SQL","Agile"],
+        "description": [
+          {
+            "p": ["Major projects and activities include:"],
+            "ul": [	"Recommend and discuss optimal approaches to developing applications with management and customers",
+              "Custom web development of new data driven applications using ASP.NET, C#, MVC 4, JavaScript frameworks, and SQL Server",
+               "Build RESTful Web services using the ASP.NET Web API",
+               "Lead developer for custom classes, applications, and triggers within the salesforce.com platform using Apex.  Maintain and enhance all existing integrations with salesforce and third-party applications",
+               "Serve as a backup developer for all Ektron CMS development"
+              ]
+          }
+          
+        ]
+      },
+      {
+        "from": "2013/09", "till": "2014/09", "emp": "Santander Consumer USA - Dallas, TX",
+        "wiki": {
+          "fa": "fab fa-wikipedia-w", "title": "About this employer", "value": "scusa",
+          "tag": ["Finance - auto Lending, unsecured loans"],
+          "link": "https://santanderconsumerusa.com/"
+        }, 
+        "link": null, "title": "Application Developer III", "icon": "check", "active": true,
+        "keyword": ["ASP.NET", "MVC", "C#", "Vanilla JavaScript", "KnockoutJS", "Agile"],
+        "description": [
+          {"p": ["Major projects and activities include:"],
+           "ul": [
+            "High paced development of a new business line application using ASP.NET, C#, MVC 4, JavaScript frameworks, and SQL Server in Agile environment.",
+            "Train, mentor, and perform code reviews for junior team members",
+            "Serve as backup team lead for 5 member team"
+
+          ]}
+          
+        ]
+      },
+      {
+        "from": "2014/09", "till": "Current", "emp": "Financial Leader - Dallas, TX", "link": "",
+        "wiki": {
+          "fa": "fab fa-wikipedia-w", "title": "About this employer", "value": "Wikipedia",
+          "tag": [],
+          "link": ""
+        }, 
+        "title": "Lead .NET Software Engineer", "icon": "loading", "active": true,
+        "keyword": ["ASP.NET", "MVC", "Web API", "C#","Entity Framework","SQL","Azure", "Angular","JIRA", "Agile"],
+        "description": [
+          {
+            "p": ["<b>.NET Lead</b>: Started a Sr. Software Engineer on a small .NET team, in 2017 gained lead responsibility for all architecture, estimating, development, and technical direction for 6 .NET based applications"],
+            "ul": ["Complete rewrite of 1 core business application using .NET Web API, SQL, and AngularJS 1.5 under tight deadline",
+              "Lead for greenfield development of 2 mission critical business line applications using ASP.NET, C#, MVC, Telerik, EF, and SQL Server in Agile environment",
+              "Major enhancements on 2 single-page apps (SPAs) using Angular",
+              "Migration of 6 applications from legacy SVN into Azure DevOps Server 2019",
+              "Conduct technical interviews, onboarding, code reviews, and coaching for 5 member .NET developer team",
+              "Lead analysis, and proof of concept for .NET applications migrating from on-prem to Azure"
+              ]
+          }
+          
+        ]
+      }
+
+    ],
+    "edu": [
+      {
+        "from": "1994/09", "till": "1998/09", "icon": "check", "active": false,
+        "school": "Texas Tech University", 
+        "link": "http://ttu.edu", "wiki": {
+          "fa": "fab fa-wikipedia-w", "title": "About this school", "value": "Wikipedia",
+          "tag": ["985/211", "C9"],
+          "link": "https://en.wikipedia.org/wiki/Texas_Tech_University"
+        },
+        "major": "Electrical Engineering Technology",
+        "cred": "BS Electrical Engineering Technology", "rank": "GPA 3.4/4.0",
+        "lesson": [
+          "<b>Core Classes</b>: mathematics, physics, sociology, economics, etc.", 
+          "<b>Engineering Fundamentals</b>: programmable logic controllers, circuit design, etc"
+        ]
+      }
+    ],
+    "self": {
+      "statement": [
+        "Senior data scientist / project management professional working 10+ years in healthcare and health insurance industry with rich experience of transnational / cross-functional cooperation.",
+        "Cross-border key contribution on product, system & service to the business unit throughout its creation and continuous growth; profound understanding on industry dynamics, strategic focus and implementation details in health management and the big health industry.",
+        "Stick to life-long problem-oriented active learning; volatile skills in 'business / medicine / data / IT tech' and solid transdisciplinary knowledge that is scarce; good at meeting business requirements by overcoming restraints with innovative technical turnarounds.",
+        "Advocate a data-driven, evidence-and-fact-based, agile and cooperative work philosophy; good numeracy & analytic skills and systematic thinking framework; good at identifying, analysing and solving problems; adapt to a fast changing work environment that requires flexible re-prioritization and cooperative push-forward."
+      ],
+      "interest": ["Woodworking", "Hiking","Fishing", "Boating","Family Time", "Auto Repair"],
+      "gallery": null
+    },
+    "misc": {
+      "tip": {
+        "title": "About this CV",
+        "msg": "<br/><p>Feel free to interact with the page (tap the tags, icons and buttons, unfold the collapse panels, visit the links, etc.) for more details.</p><ol style='padding-left:20px'><li>It's responsive to various equipments (PC, tablet, mobile phone, ...) with different resolution</li><li>A method to calculate and present time difference has been wrapped</li><li>Functionalities of <code>el-collapse</code> and <code>el-timeline</code> components have been extended and integrated</li><li>CDN has been applied to boost the web performance, please make sure <a href='https://www.bootcdn.cn' target='_blank'>BootCDN</a> is accessible</li><li>You can download the PDF version at <i class='fas fa-download'></i></li></ol><p>You can also fork the <a href='https://github.com/madlogos/vueresume.git' target='_blank'>source code</a> to deploy your own online resume.</p>"
+      },
+      "footnote": "<span style='float:right'><i class='fas fa-file-code'></i> Powered by <code>Vue.js</code>, <code>ElementUI</code>, <code>ECharts</code> & <code>i18n</code>, <i class='fas fa-terminal'></i> built with <code>Webpack</code>.</span>",
+      "copyright": {"from": "2019", "thru": "now", "content": "madlogos"},
+      "attachment": "https://gh-1251443721.cos.ap-chengdu.myqcloud.com/assets/wang-yiying-resume-en.pdf"
+    }
+  }
+}
