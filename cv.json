@@ -307,10 +307,10 @@
     },
     "misc": {
       "tip": {
-        "title": "About this CV",
+        "title": "About my resume",
         "msg": "<br/><p>Feel free to interact with the page (tap the tags, icons and buttons, unfold the collapse panels, visit the links, etc.) for more details.</p><ol style='padding-left:20px'><li>It's responsive to various equipments (PC, tablet, mobile phone, ...) with different resolution</li><li>A method to calculate and present time difference has been wrapped</li><li>Functionalities of <code>el-collapse</code> and <code>el-timeline</code> components have been extended and integrated</li><li>CDN has been applied to boost the web performance, please make sure <a href='https://www.bootcdn.cn' target='_blank'>BootCDN</a> is accessible</li><li>You can download the PDF version at <i class='fas fa-download'></i></li></ol>"
       },
-      "footnote": "<span style='float:right'><i class='fas fa-file-code'></i> Powered by <code>Vue.js</code>, <code>ElementUI</code>, <code>ECharts</code> & <code>i18n</code>, <i class='fas fa-terminal'></i> built with <code>Webpack</code>.</span>",
+      "footnote": "<span style='float:right'><i class='fas fa-file-code'></i> Powered by <code>Vue.js</code>, <code>ElementUI</code>, <code>ECharts</code>, <i class='fas fa-terminal'></i> built with <code>Webpack</code>.</span>",
       "copyright": {"from": "2019", "thru": "now", "content": "justin.herzog"},
       "attachment": "/assets/justin_herzog_resume.pdf"
     }
